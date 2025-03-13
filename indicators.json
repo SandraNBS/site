@@ -2118,4 +2118,20 @@
           "status": "notstarted"
         }]
     }
+  },
+  {
+    "goal": {
+      "id": "Goal_15",
+      "title": "global_goals.Goal_15-title",
+      "indicators": [
+        
+        {
+          "id": "Goal_15-1-1",
+          "title": "global_indicators.Goal_15-1-1-title",
+          "description": "",
+          "keywords": "",
+          "href": "/site/Goal_15-1-1/",
+          "status": "complete"
+        }]
+    }
   }]
